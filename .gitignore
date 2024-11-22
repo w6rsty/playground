@@ -1,0 +1,11 @@
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+.vscode/
+.idea/
+.vs/
+
+*.ini
